@@ -45,7 +45,7 @@ ENGINE.Player.prototype = {
 
   sprites: [
     [13, 65, 20, 16],
-    [36, 65, 20, 16],
+    [36, 65, 20, 16]
   ],
 
   collision: function(object) {
